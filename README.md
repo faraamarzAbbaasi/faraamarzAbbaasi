@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faraamarzAbbaasi
+- 👋 Hi, I’mf faraamarz
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on newbi projects games for python html/css.
